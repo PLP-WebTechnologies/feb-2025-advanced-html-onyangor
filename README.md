@@ -27,7 +27,7 @@ Apply multimedia elements such as audio and video.
 
 Happy Coding! 💻✨
 
-           <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
